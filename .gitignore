@@ -5,7 +5,6 @@ node_modules
 .pnp
 .pnp.js
 
-.vscode
 .idea
 .redis
 
@@ -23,3 +22,7 @@ build
 .env.production.local
 
 target
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
